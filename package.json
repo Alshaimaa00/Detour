@@ -1,0 +1,11 @@
+{
+  "name": "detour",
+  "version": "0.1.0",
+  "description": "Interactive mobile-app prototype for planning trips.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "Alshaimaa00",
+  "license": "MIT"
+}
