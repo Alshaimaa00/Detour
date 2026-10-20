@@ -1,0 +1,41 @@
+/* Self-hosted fonts */
+@font-face {
+  font-family: "Inter";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/inter-400.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/inter-500.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/inter-600.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/inter-700.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter Display";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/inter-display-700.woff") format("woff");
+}
+
